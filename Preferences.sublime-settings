@@ -1,0 +1,46 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+	"dpi_scale": 1.0,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Source Code Pro",
+	"font_size": 19,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"tab_size": 4,
+	"theme": "Boxy Monokai.sublime-theme",
+	"theme_autocomplete_item_selected_colored": true,
+	"theme_bar": true,
+	"theme_bar_logo_atomized": true,
+	"theme_bar_logo_materialized": true,
+	"theme_bar_shadow_hidden": true,
+	"theme_find_panel_font_xl": true,
+	"theme_find_panel_size_xl": true,
+	"theme_icons_atomized": true,
+	"theme_icons_flat": true,
+	"theme_icons_materialized": true,
+	"theme_minimap_viewport_opacity_xh": true,
+	"theme_quick_panel_size_xl": true,
+	"theme_sidebar_close_always_visible": true,
+	"theme_sidebar_disclosure": true,
+	"theme_sidebar_folder_atomized": true,
+	"theme_sidebar_folder_materialized": true,
+	"theme_sidebar_font_xl": true,
+	"theme_tab_rounded": true,
+	"theme_tab_selected_overlined": true,
+	"theme_tab_selected_underlined": true,
+	"theme_tab_size_xl": true,
+	"theme_tab_width_auto": true,
+	"theme_tooltips_font_xl": true,
+	"theme_unified": true,
+	"translate_tabs_to_spaces": true
+}

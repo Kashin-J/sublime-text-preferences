@@ -1,0 +1,43 @@
+{
+    // PHPCS settings
+    "phpcs_icon_scope_color": "comment",
+    "phpcs_sniffer_run": true,
+    "phpcs_command_on_save": true,
+    "phpcs_executable_path": "C:\\Users\\kashin\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs.bat",
+    "phpcs_additional_args": {
+        "--standard": "PSR2",
+        "-n": ""
+    },
+
+    // PHP-CS-Fixer settings
+    "php_cs_fixer_on_save": true,
+    "php_cs_fixer_show_quick_panel": true,
+    "php_cs_fixer_executable_path": "C:\\Users\\kashin\\AppData\\Roaming\\Composer\\vendor\\bin\\php-cs-fixer.bat",
+    "php_cs_fixer_additional_args": {
+        // "--level":"psr2",
+        // "--fixers":"linefeed,short_tag,indentation"
+    },
+
+    // phpcbf settings
+    "phpcbf_on_save": false,
+    "phpcbf_show_quick_panel": true,
+    "phpcbf_executable_path": "C:\\Users\\kashin\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcbf.bat",
+    "phpcbf_additional_args": {
+        "--standard": "PSR2",
+        "-n": ""
+    },
+
+    // PHP Linter settings
+    "phpcs_linter_run": true,
+    "phpcs_linter_command_on_save": true,
+    "phpcs_php_path": "C:\\wamp64\\bin\\php\\php7.0.10\\php.exe",
+    "phpcs_linter_regex": "(?P<message>.*) on line (?P<line>\\d+)",
+
+    // PHP Mess Detector settings
+    "phpmd_run": true,
+    "phpmd_command_on_save": true,
+    "phpmd_executable_path": "C:\\Users\\kashin\\AppData\\Roaming\\Composer\\vendor\\bin\\phpmd.bat",
+    "phpmd_additional_args": {
+        "codesize,unusedcode,naming":""
+    },
+}
