@@ -31,6 +31,6 @@ View the [official website][2] of the *simple* and *standard* installation of th
 
  ```bash
  cd Packages
- cp User User_old
+ mv User User_old
  git clone [git repository] User
  ```
